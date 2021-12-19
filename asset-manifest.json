@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ms-home/static/css/main.3667b895.css",
+    "main.js": "/ms-home/static/js/main.4f2ba639.js",
+    "index.html": "/ms-home/index.html",
+    "main.3667b895.css.map": "/ms-home/static/css/main.3667b895.css.map",
+    "main.4f2ba639.js.map": "/ms-home/static/js/main.4f2ba639.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3667b895.css",
+    "static/js/main.4f2ba639.js"
+  ]
+}
