@@ -1,0 +1,22 @@
+.app {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+
+  &Content {
+    padding: 16px 0;
+  }
+
+  &Header {
+    font-size: 24px;
+    font-weight: 600;
+      padding: 16px 0;
+    background-color: #dff;
+  }
+
+  &Footer {
+    font-size: 14px;
+    font-weight: 400;
+  }
+}
+
