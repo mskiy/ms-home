@@ -1,5 +1,6 @@
 import React from 'react';
 import './App.scss';
+import Socket from "./features/socket/Socket.tsx";
 
 function App() {
   return (
@@ -8,7 +9,8 @@ function App() {
         ms home
       </header>
       <div className="appContent">
-        Devices
+        Devices:
+        <Socket />
       </div>
       <footer>
 
